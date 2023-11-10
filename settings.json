@@ -18,5 +18,5 @@
     "window.commandCenter": false,
     "workbench.statusBar.visible": false,
     "window.menuBarVisibility": "compact",
-    "windowtitleBarStyle": "custom",
+    "window.titleBarStyle": "custom",
 }
