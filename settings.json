@@ -2,7 +2,6 @@
     "window.zoomLevel": -1,
     "editor.fontSize": 16,
     "terminal.integrated.fontSize": 16,
-    "workbench.colorTheme": "Monokai Dimmed",
     "files.autoSave": "afterDelay",
     "editor.unicodeHighlight.nonBasicASCII": true,
     "editor.cursorStyle": "underline",
@@ -18,5 +17,7 @@
     "window.commandCenter": false,
     "workbench.statusBar.visible": false,
     "window.menuBarVisibility": "compact",
+    "extensions.ignoreRecommendations": true,
     "window.titleBarStyle": "custom",
+    "editor.renderControlCharacters": false,
 }
